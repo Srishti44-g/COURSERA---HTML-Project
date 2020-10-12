@@ -16,7 +16,7 @@ nav -- add four links, they can go to anywhere you like or nowhere at all
 section - Favorite Foods
 section - Achievements
 section - More About Me
-4. footer - The image from the footer can be found at my website: http://www.intro-webdesign.com/images/newlogo.png
+4. footer - The image from the footer can be found at my website: http://www.intro-webdesign.com/images/newlogo.png**
 
 **Peer Grading
 For this assignment you will be grading the submission of your peers and they will be be grading your work as well.**
